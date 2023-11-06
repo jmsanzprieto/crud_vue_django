@@ -2,8 +2,8 @@
 // config.js
 
 // datos del usuario
-const username = 'jomasanz';
-const password = '##Arrakis_08';
+const username = '__username__';
+const password = '__password__';
 
 // Endpoints
 // ACCESO A LA AUTENTICACIÓN
