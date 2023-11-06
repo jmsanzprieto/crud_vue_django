@@ -97,8 +97,8 @@ DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
             'NAME': 'demo_app',
-            'USER': 'root',
-            'PASSWORD': '##Sakura_2022',
+            'USER': '__usermysql__',
+            'PASSWORD': '__passmysql__',
             'HOST': 'localhost',
             'PORT': '3306',
         }
